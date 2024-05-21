@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <img src="newgladepiklong2.svg" width="80%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+  <img src="newgladepiklong2.svg" width="80%" alt="Gladepik"> 
 </p>
 <!--
 
