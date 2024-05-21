@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+ <p align="center">
+  <img src="newgladepiklong2.svg" width="80%" alt="Rihad Jahan Opu @rihadjahanopu"> 
+</p>
 <!--
 
 **Here are some ideas to get you started:**
