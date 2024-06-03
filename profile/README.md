@@ -10,5 +10,5 @@
 <h1 align="center">Gladepik</h1>
 
  <p align="center">
-  <img src="dev.gif" width="80%" alt="Gladepik"> 
+  <img src="dev.gif" width="100%" alt="Gladepik"> 
 </p>
