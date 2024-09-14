@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="2024gladepik.svg" width="80%" alt="Gladepik"> 
+  <img src="2024gladepik.svg" width="50%" alt="Gladepik"> 
 </p>
 
 
