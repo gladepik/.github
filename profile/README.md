@@ -55,4 +55,4 @@ Get in touch with us today to explore how Gladepik can help you achieve your bus
 
 This version emphasizes professionalism, clear value propositions, and a refined tone. It strengthens the language to appeal to clients seeking serious, long-term partnerships in software development.
 
- 
+ [![](https://visitcount.itsvg.in/api?id=gladepik&icon=2&color=1)](https://visitcount.itsvg.in)
