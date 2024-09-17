@@ -15,8 +15,8 @@
 </div>
 
 <br>
-## Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend, My name is Rihad Jahan Opu Professional Full-Stack Web Developer & Rustacean 👨🏼‍💻
-<br>
+## Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
+
 
 🔭 Established in October 2021, Gladepik has rapidly emerged as a leading software development firm, renowned for its commitment to delivering high-quality, innovative solutions. Our expertise spans a wide range of platforms, including web applications, web servers, mobile applications (iOS and Android), and desktop applications.
 
