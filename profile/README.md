@@ -4,6 +4,9 @@
 </p>
 
 <h1 align="center">Gladepik</h1>
+<p align="center">
+  💻 Gladepik Your Trusted Partner for High-Quality, Innovative Software Solutions Across All Platforms.
+</p>
 
 <div align="center">
   <a href="https://facebook.com/gladepik" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
