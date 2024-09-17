@@ -14,6 +14,9 @@
   <a href="https://youtube.com/@gladepik" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 
+
+
+
 🔭 Established in October 2021, Gladepik has rapidly emerged as a leading software development firm, renowned for its commitment to delivering high-quality, innovative solutions. Our expertise spans a wide range of platforms, including web applications, web servers, mobile applications (iOS and Android), and desktop applications.
 
 At Gladepik, we leverage advanced technologies and industry-leading best practices to develop software that is both highly functional and visually compelling. Our team of skilled developers and engineers is committed to understanding each client's unique needs, delivering customized solutions that consistently exceed expectations. Every project we undertake is driven by our focus on efficiency, scalability, and performance, ensuring that your software is both reliable and future-ready.
