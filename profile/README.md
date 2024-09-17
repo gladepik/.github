@@ -46,7 +46,7 @@ Whether you’re looking to modernize existing systems, launch a new product, or
 🪪 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 --------------------------------
 * :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-* :e-mail: &emsp;You can contact me at [`gladepikagency@gmail.com`](mailto:gladepikagency@gmail.com)<br/>
+* :e-mail: &emsp;You can contact me at [`contact@gladepik.com`](mailto:gladepikagency@gmail.com)<br/>
 * 🏢 &emsp;Fun fact: I co-founded my largest digital marketing agency Gladepik.
 * 🌍 &emsp;I'm based in Bangladesh
 * 🖥️ &emsp;See at [`Website`](http://gladepik.com)
