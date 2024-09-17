@@ -3,9 +3,16 @@
   <img src="2024gladepik.svg" width="50%" alt="Gladepik"> 
 </p>
 
-
-
 <h1 align="center">Gladepik</h1>
+
+<div align="center">
+  <a href="https://facebook.com/gladepik" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/gladepik" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/gladepik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pinterest.com/gladepik" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="https://twitter.com/gladepik" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://youtube.com/@gladepik" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+</div>
 
 🔭 Established in October 2021, Gladepik has rapidly emerged as a leading software development firm, renowned for its commitment to delivering high-quality, innovative solutions. Our expertise spans a wide range of platforms, including web applications, web servers, mobile applications (iOS and Android), and desktop applications.
 
@@ -21,7 +28,7 @@ Whether you’re looking to modernize existing systems, launch a new product, or
 * ⚡ &emsp;`Quality Assurance:` Our rigorous quality assurance processes ensure that every product we deliver meets the highest standards of functionality and performance.
 * ⚡ &emsp;`Scalability at the Core:` We design solutions with future growth in mind, ensuring that your software can scale alongside your business.
 
-🦖 Why Choose Gladepik?
+🤝 Why Choose Gladepik?
 --------------------------
 
 * 🌱 &emsp;`Technical Expertise:` Our team brings extensive experience across a wide range of programming languages, frameworks, and platforms.
