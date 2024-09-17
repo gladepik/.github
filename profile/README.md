@@ -14,7 +14,7 @@
   <a href="https://youtube.com/@gladepik" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 
-<br>
+
 ## Hi <img src="hello.gif" width="28px" alt="hi"> there my gorgeous friend
 
 
