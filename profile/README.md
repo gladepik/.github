@@ -14,7 +14,8 @@
   <a href="https://youtube.com/@gladepik" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
 </div>
 
-
+<br>
+<br>
 
 
 🔭 Established in October 2021, Gladepik has rapidly emerged as a leading software development firm, renowned for its commitment to delivering high-quality, innovative solutions. Our expertise spans a wide range of platforms, including web applications, web servers, mobile applications (iOS and Android), and desktop applications.
